@@ -1,0 +1,8 @@
+{
+	"name": "replthis",
+	"version": "1.0.0",
+	"description": "Spend one line of code to run a Node REPL in the console under the scope of a function on that line.",
+	"main": "index.js",
+	"author": "Grant Gryczan",
+	"license": "MIT"
+}
